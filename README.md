@@ -14,7 +14,9 @@ Este projeto é uma **dashboard interativa de previsão do tempo**, construída 
 - Requests (para consumo da API OpenWeatherMap)
 - Pandas (para manipulação de dados)
 
+
 ### Como usar
 1. Insira o nome da cidade desejada.
 2. Clique em "Buscar".
 3. Visualize as métricas do clima atual e a previsão dos próximos dias.
+4. <img width="1230" height="1039" alt="Captura de tela 2025-08-21 103233" src="https://github.com/user-attachments/assets/7dc9bb8c-620a-4227-8cfc-d54e70c56889" />
